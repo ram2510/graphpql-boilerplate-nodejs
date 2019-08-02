@@ -1,0 +1,26 @@
+{
+  "name": "graphpql-boilerplate-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ram2510:ramrishi25@github.com/ram2510/graphpql-boilerplate-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ram2510/graphpql-boilerplate-nodejs/issues"
+  },
+  "homepage": "https://github.com/ram2510/graphpql-boilerplate-nodejs#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "graphql-yoga": "^1.18.1"
+  }
+}
